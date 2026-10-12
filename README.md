@@ -6,7 +6,7 @@ CardMe is a free Mac app that helps recover memory card photos. I built it after
 
 Requires macOS 14 or later and Apple silicon. Open the DMG, drag CardMe to Applications, choose your card, and select a different drive or folder to save recovered photos. CardMe accesses the card read only and processes photos on your Mac. Recovery is not guaranteed; stop using a damaged card to avoid overwriting recoverable data.
 
-This repository hosts signed, Apple-notarized downloads, checksums, license notices, and matching third-party source. The CardMe application repository remains private for now; a future source publication is planned. Version 0.3.23 retains its original MIT license. Third-party components retain their own licenses; notices and corresponding source are also included inside the app and accessible from About. Later GPL releases must include their matching CardMe source alongside the download.
+This repository hosts signed, Apple-notarized downloads, checksums, license notices, and matching third-party source. The [CardMe application source](https://github.com/ctwxdd/CardMe) is now public. Current source uses GPL-3.0-only; earlier releases retain their original licenses. Version 0.3.23 retains its original MIT license. Third-party components retain their own licenses; notices and corresponding source are also included inside the app and accessible from About. Later GPL releases must include their matching CardMe source alongside the download.
 
 The app offers anonymous usage statistics, which you can disable in Settings → Privacy. Photos are never uploaded.
 

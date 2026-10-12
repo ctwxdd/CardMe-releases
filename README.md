@@ -1,3 +1,5 @@
+> **Current releases have moved to [ctwxdd/CardMe](https://github.com/ctwxdd/CardMe/releases).** Download the latest signed, notarized app there. This repository preserves historical release downloads.
+
 # CardMe downloads
 
 CardMe is a free Mac app that helps recover memory card photos. I built it after a cheap adapter left several of my baby's photos unreadable, hoping it can help others preserve their memories too.
